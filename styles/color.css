@@ -1,0 +1,187 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner{
+    
+    background: rgba(229, 84, 115, 0.10) ;
+    width: 1920px;
+height: 850px;
+display: flex;
+align-items:center;
+justify-content: space-around;
+
+
+}
+.profile-pic{
+    width: 300px;
+height: 700px;
+background: url(<path-to-image>), lightgray / cover no-repeat;
+margin-right: 600px;
+
+}
+
+    .banner-title{
+        color: #272727;
+
+font-size: 40px;
+
+font-weight: 80;
+
+    }
+
+    
+
+.banner-description{
+ color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+
+font-weight: 400;
+
+}
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+color: #FFF;
+
+font-size: 10px;
+font-weight: 100;
+
+}
+
+
+
+
+.about-title{
+    text-align: center;
+    color: #272727;
+
+
+font-size: 40px;
+font-weight: 800;
+margin-bottom:0px ;
+
+}
+.about-sub-title{
+    text-align: center;
+    color: #272727;
+    margin-top:40px;
+
+
+font-size: 20px;
+font-weight: 400;
+}
+.flower-container{
+background: #FFF;
+/* width: 1920px;*/
+justify-content: space-around;
+/*height: 4867px;
+display: flex;
+*/
+display: flex;
+}
+  
+.text-item{
+    color: #272727;
+text-align:center;
+
+font-size: 24px;
+
+font-weight: 600;
+margin-bottom: 20px;
+
+text-decoration-line: underline;
+}
+.flower-one{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 500px;
+height: 467px; 
+
+
+}
+.flower-two{
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-top: px;
+    width: 504px;
+height: 558px;
+
+    
+}
+.flower-three{
+    margin-bottom:px;
+  
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.hot-deal-container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+color: rgba(39, 39, 39, 0.60);
+
+
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; /* 166.667% */}
+
+
+
+
+
+
+.four{
+    margin-right:100px; 
+    width: 318px;
+height: 420px;
+
+}
+.hot-deal-title{
+margin-left:200px;
+color: #272727;
+font-size: 40px;
+
+font-weight: 800;
+
+}
+
+.pink{
+    color: #E55473;
+
+font-size: 40px;
+
+font-weight: 800;
+
+}
+
+.hot-deal-description{
+    margin-left: 160px;
+}
+.break-line{
+ color: rgba(39, 39, 39, 0.60);
+ margin-left: 300px;
+
+
+font-size: 18px;
+font-weight: 400;
+
+}
+
+.btn-two{
+    border-radius: 8px;
+background: #E55473;
+margin-left: 400px;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+}

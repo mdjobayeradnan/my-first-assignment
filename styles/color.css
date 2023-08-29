@@ -209,3 +209,48 @@ font-weight: 400;
     justify-content: space-around;
     gap:24px ;
 }
+
+.back-image{
+    background-image: url('Rectangle\ 9.png');
+   
+    border-radius: 8px;
+    background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+ }
+  .image-title{
+    color: #272727;
+    text-align: center;
+    
+    font-size: 40px;
+    
+    font-weight: 800;
+    
+
+  }
+  .image-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+  }
+  .email{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+margin-left:350px;
+  }
+  .last-btn{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+margin-left: 16px; 
+  }

@@ -184,6 +184,13 @@ display: inline-flex;
 padding: 20px 43px;
 align-items: flex-start;
 gap: 10px;
+color: #FFF;
+
+font-size: 20px;
+
+font-weight: 700;
+
+
 }
 
 
@@ -249,10 +256,25 @@ margin-left:350px;
   .last-btn{
     width: 150px;
 height: 64px;
-flex-shrink: 0;
+
 border-radius: 8px;
 background: #E55473;
+
 margin-left: 16px; 
+
+width: 140px;
+height: 50.429px;
+
+
+
+
+color: #FFF;
+
+font-size: 20px;
+
+font-weight: 700;
+
+
   }
   .last-one-btn{
     color: #E55473;
@@ -260,6 +282,7 @@ margin-left: 16px;
 font-size: 48px;
 
 font-weight: 800;
+
 
   }
   .end{
@@ -299,3 +322,15 @@ margin-top: 32px;
 font-weight: 400;
 
   }
+  .Delivery{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 1440px;
+height: 320px;
+
+
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+  }
+

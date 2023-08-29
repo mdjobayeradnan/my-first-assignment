@@ -254,3 +254,48 @@ border-radius: 8px;
 background: #E55473;
 margin-left: 16px; 
   }
+  .last-one-btn{
+    color: #E55473;
+
+font-size: 48px;
+
+font-weight: 800;
+
+  }
+  .end{
+    background: #111010;
+    width: 1922px;
+height: 449px;
+
+  }
+  .white{
+    color: #FFF;
+    text-align: center;
+    margin-right:500px ;
+
+font-size: 48px;
+
+font-weight: 800;
+
+  }.end-description{
+
+
+
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    margin-right: 500px;
+    font-size: 18px;
+    
+    font-weight: 400;
+    
+  }
+  .bye{
+    color: rgba(255, 255, 255, 0.40);
+text-align:center;
+margin-right:500px;
+font-size: 16px;
+margin-top: 32px;
+
+font-weight: 400;
+
+  }
